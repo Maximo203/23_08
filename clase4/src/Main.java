@@ -1,7 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("HELLOW ORLD");
+        System.out.println("parece que para algo use la cuchara");
 
 
     }
